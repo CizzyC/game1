@@ -1,0 +1,39 @@
+{
+  "levels": [
+    {
+      "level": 1,
+      "gridSize": {"rows": 6, "cols": 6},
+      "targetScore": 1000,
+      "movesLimit": 15,
+      "fruitTypes": 4
+    },
+    {
+      "level": 2,
+      "gridSize": {"rows": 7, "cols": 7},
+      "targetScore": 2500,
+      "movesLimit": 20,
+      "fruitTypes": 5
+    },
+    {
+      "level": 3,
+      "gridSize": {"rows": 8, "cols": 8},
+      "targetScore": 5000,
+      "movesLimit": 25,
+      "fruitTypes": 6
+    },
+    {
+      "level": 4,
+      "gridSize": {"rows": 9, "cols": 9},
+      "targetScore": 10000,
+      "movesLimit": 30,
+      "fruitTypes": 7
+    },
+    {
+      "level": 5,
+      "gridSize": {"rows": 10, "cols": 10},
+      "targetScore": 20000,
+      "movesLimit": 35,
+      "fruitTypes": 8
+    }
+  ]
+}
